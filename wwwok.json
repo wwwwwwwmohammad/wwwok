@@ -1,266 +1,43 @@
 {
-  "AdminUrl": "https://t.me/grassmohammad",
-  "Marquee": "برای خرید کلید به مدیر پیام دهید. فقط کاربران دارای اشتراک مجاز هستند",
-  "Users": [
-    {
-      "ID": "1E676B4A583054ED",
-      "Expiry": "27/12/2030"
-    },
-    {
-      "ID": "c0cc3d21d83f5c36",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "9976d31cc9c795cf",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "bbe99075ae8e9dd0",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "b9304375c4baae49",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "f0becd73c10c593a",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "4de65351e61238d2",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "6f0f5d858ce18944",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "a22e7fdef13bc7ef",
-      "Expiry": "01/01/2030"  
-    },
-    {
-      "ID": "e83808af11039394",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "BC8353A7A1675ECE",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "51DC4C1FBE35E964",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"  
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"  
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"  
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
-    },
-    {
-      "ID": "❌❌",
-      "Expiry": "01/01/2030"
+  "ban_list": {
+    "0000000000000000": "Banned for key sharing / cracking attempt",
+    "sample_banned_hwid": "Violation of Terms"
+  },
+  "free_card": {
+    "avatar_url": "https://images.hdqwalls.com/download/akaza-the-blue-eyed-demon-warrior-rj-3840x2400.jpg",
+    "bg_video_url": "https://assets.mixkit.co/videos/preview/mixkit-abstract-green-fluid-waves-background-41547-large.mp4",
+    "btn_copy": "COPY ID",
+    "btn_paste": "PASTE KEY",
+    "cancelable": false,
+    "cta_banned_text": "DEVICE BANNED ⛔",
+    "cta_connecting_text": "CONNECTING...",
+    "cta_login_text": "SLIDE TO UNLOCK",
+    "cta_offline_text": "SLIDE TO RETRY",
+    "cta_verifying_text": "VERIFYING KEY...",
+    "cta_welcome_text": "SLIDE TO CONTINUE",
+    "dialog_mode": "login",
+    "get_key_text": "GET KEY",
+    "get_key_url": "https://t.me/DP_Mods",
+    "handle": "@dp_mods • Verified Modder",
+    "hwid_show": true,
+    "key_hint": "Enter License Key...",
+    "name": "DPMods Official",
+    "no_internet_sub": "Turn on Wi-Fi or Mobile Data and slide below to retry.",
+    "no_internet_title": "NO INTERNET CONNECTION",
+    "show_dialog": true,
+    "version_tag": "DPMods ✧"
+  },
+  "keys": {
+    "DP-TEST-30NOV": {
+      "expires_date": "30/11/2026",
+      "max_devices": 1
+    },
+    "DP-VIP-31DEC": {
+      "devices": {
+        "1e676b4a583054ed": true
+      },
+      "expires_date": "31/12/2036",
+      "max_devices": 3
     }
-  ]
+  }
 }
