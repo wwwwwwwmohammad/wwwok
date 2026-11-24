@@ -8,7 +8,7 @@
     "bg_video_url": "https://assets.mixkit.co/videos/preview/mixkit-abstract-green-fluid-waves-background-41547-large.mp4",
     "btn_copy": "COPY ID",
     "btn_paste": "PASTE KEY",
-    "cancelable": false,
+    "cancelable": true,
     "cta_banned_text": "DEVICE BANNED ⛔",
     "cta_connecting_text": "CONNECTING...",
     "cta_login_text": "SLIDE TO UNLOCK",
